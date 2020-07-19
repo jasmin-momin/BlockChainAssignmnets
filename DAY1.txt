@@ -1,0 +1,31 @@
+ 1.  Blockchain is a distributed database existing on multiple computers at the same time. It is constantly growing as new sets of recordings, or 'blocks', are added to it.
+     Each block contains a timestamp and a link to the previous block, so they actually form a chain.Sep 4, 2017.
+     A Blockchain is a chain of blocks which contain information. The data which is stored inside a block depends on the type of blockchain. 
+     For Example, A Bitcoin Block contains information about the Sender, Receiver, number of bitcoins to be transferred.
+     The first block in the chain is called the Genesis block.May 2, 2020
+     It allows users to manipulate the ledger in a secure way without the help of a third party. It allows a free cryptocurrency through a decentralized environment.
+
+
+ 2.  Blockchain Addresses the Problem of Data Security and Trust by Making the Ledger Public. Hardware and software errors are not the only data security issue. 
+    The blockchain has to also protect itself from willful fraud and theft. Two blockchain design features help in this effort.Apr 24, 2019
+
+ 3. Cannot be Corrupted. There are some exciting blockchain features but among them “Immutability” is undoubtedly one of the key features of blockchain technology. ...
+    Decentralized Technology. ...
+    Enhanced Security. ...
+    Distributed Ledgers. ...
+    Consensus. ...
+    Faster Settlement.
+
+
+ 4. A blockchain, originally block chain, is a growing list of records, called blocks, that are linked using cryptography. 
+    Each block contains a cryptographic hash of the previous block, a timestamp, and transaction data (generally represented as a Merkle tree).
+    Blocks hold batches of valid transactions that are hashed and encoded into a Merkle tree. Each block includes the cryptographic hash of the prior block in the blockchain,
+    linking the two. The linked blocks form a chain.This iterative process confirms the integrity of the previous block, all the way back to the original genesis block.
+
+
+ 5. The block time is the average time it takes for the network to generate one extra block in the blockchain. Some blockchains create a new block as frequently as every five seconds. 
+    By the time of block completion, the included data becomes verifiable. In cryptocurrency, this is practically when the transaction takes place, so a shorter block time means faster 
+    transactions. The block time for Ethereum is set to between 14 and 15 seconds, while for bitcoin it is on average 10 minutes.
+
+
+
